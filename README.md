@@ -2,5 +2,5 @@
 
 Command used:
 ```
-./mvnw clean verify -Pnative -Dquarkus.native.container-build=true -Dquarkus.native.builder-image=quay.io/quarkus/ubi-quarkus-native-image:19.3.1-java8
+./mvnw clean verify -Pnative -Dquarkus.native.container-build=true
 ```
